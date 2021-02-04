@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h1>{{ site.title }} : {{ site.description }}</h1>
+
+<ul style="list-style-type:none">
+  {% for page in site.posts %}
+  <li>
+    <time datetime="{{page.date | date: '%Y-%m-%d' }}">{{page.date | date: "%Y-%m-%d" }}</time>
+    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
