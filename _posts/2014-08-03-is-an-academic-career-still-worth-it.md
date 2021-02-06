@@ -3,7 +3,9 @@ title: Is an academic career still worth it?
 date: 2014-08-03
 ---
 
-*(In preparation for [Gestalt ReVision Summer School’s](http://gestaltrevision.be/en/events/upcoming/97-events/summerschool-2014/604) evening discussion.)* Academia is great:
+*(In preparation for [Gestalt ReVision Summer School’s](http://gestaltrevision.be/en/events/upcoming/97-events/summerschool-2014/604) evening discussion.)*
+
+Academia is great:
 
 -   Freedom to pursue any topic of interest
 -   Flexible working hours

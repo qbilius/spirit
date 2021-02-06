@@ -1,8 +1,11 @@
-@media {
-    a:link {color:rgb(136, 0, 0)}
-    a:hover, a:visited:hover {color:rgb(90, 0, 0)}
-    a:visited {color:rgb(0, 0, 0)}
+a:hover, a:visited:hover {
+    color:dimgray;
 }
+a:link, a:visited {
+    color:black;
+}
+
+
 body {
     margin:1em auto;
     max-width:40em;
@@ -11,6 +14,21 @@ body {
 }
 h1,h2,h3 {
     line-height:1.2;
+}
+header > h1 {
+    margin-bottom:0;
+}
+header > p {
+    margin-top:0;
+    font-style:italic;
+}
+img {
+    max-width:40em;
+}
+blockquote {
+    font-style:italic;
+    border-left:.2em solid black;
+    padding-left:1em;
 }
 @media print{
     body{

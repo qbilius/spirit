@@ -1,9 +1,9 @@
 ---
 title: Occupy science until it bursts open
+subtitle: (with Pieter Moors and Lee H. de-Wit)
 date: 2013-03-12
 ---
 
-*(with Pieter Moors and Lee H. de-Wit)*
 
 Shortly before passing away, Richard Gregory (FRS) gave an after-dinner speech, where he said that if he were to be born again, he would become a banker so that he could put their house in order. Rightly so. After a few decades of deregulation and an almost religious faith in the free market competition as the solution to everything, it seems as if the free hand of the corporate capitalism is trying to slap itself in the face.
 
