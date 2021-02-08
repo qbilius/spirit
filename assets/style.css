@@ -30,6 +30,13 @@ blockquote {
     border-left:.2em solid black;
     padding-left:1em;
 }
+hr {
+    margin:2.4em auto;
+    max-width:10em;
+    background:black;
+    border: none;
+    height: 2px;
+}
 @media print{
     body{
         max-width:none
