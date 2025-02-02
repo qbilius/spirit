@@ -1,5 +1,5 @@
 ---
-title: Life your live fully
+title: Live your life fully
 date: 2021-02-03
 ---
 
